@@ -7,7 +7,8 @@ Matthew Robertson
 
 Robertson, M.D. 2025. Impact of starvation-induced mortality on the
 collapse and lack of recovery of American plaice on the Newfoundland
-Grand Banks: Zenodo code release. DOI.
+Grand Banks: Zenodo code release.
+<https://doi.org/10.5281/zenodo.14872897>.
 
 # Contact
 
